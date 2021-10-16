@@ -1,0 +1,22 @@
+{
+  "name": "@themod/enot-io",
+  "version": "2.0.3",
+  "description": "Library for using the EnotIO payment system for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "themod161",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "jest": "^27.2.5",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/themod161/EnotIO.git"
+  }
+}
